@@ -45,7 +45,7 @@ export const products = [
     description: "black in color",
     price: 3500,
     img: "https://images-na.ssl-images-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
-    quantity: 1,
+    quantity: 2,
   },
   {
     id: 7,
